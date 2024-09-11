@@ -1,0 +1,2 @@
+Hi, I'm Bargilli Andrea, a Software Engineer 👨‍💻.
+I am passionate about coding, problem-solving, and building efficient, scalable software solutions. My main expertise includes software development, algorithms, data structures, and cloud-based architectures. Feel free to explore my repositories where I share my projects, coding experiments, and collaborations. Let’s connect and create something impactful!
